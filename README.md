@@ -28,7 +28,7 @@ Professores:
 - Data Viking - https://www.linkedin.com/company/data-viking/
 
 # Autor
-Celso Araújo
+Celso Ricardo de Araújo
 
 https://www.linkedin.com/in/celso-araújo
 
