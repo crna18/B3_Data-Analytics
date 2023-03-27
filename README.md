@@ -4,11 +4,11 @@ Seja bem-vindo ao meu projeto de análise em Python através do Google Colab, ut
 
 O objetivo deste projeto é comparar o desempenho das empresas do setor de Petróleo e Gás na bolsa de valores no período de mar/2022 a mar/2023 e o reflexo ocorrido no mercado antes e após a eleição de 2022 da empresa Petrobras, na qual é a maior produtora de petróleo e gás do país.
 
-A primeira etapa foi coletar os dados das empresas da área através da API Yahoo Finance. Em seguida, foram verificados os dados obtendo os primeiros e últimos registros da base. 
+A primeira etapa foi coletar os dados das empresas da área através da API Yahoo Finance. Em seguida, foram verificados os dados obtendo os registros da base. 
 
-Com os dados, foi feita a análise estatística da ação Petrobras (PETR4) a fim de calcular o indicador de média móvel e identificar assim o equilíbrio dos preços no mercado, observando tendências de alta, neutra ou baixa. Depois, foi gerado o gráfico com o desempenho das empresas no período informado.
+Com os dados, foi feita a análise estatística da ação Petrobras (PETR4) a fim de calcular o indicador de média móvel e identificar assim o equilíbrio dos preços no mercado, observando tendências de alta, neutra ou baixa. Depois, foi criado o gráfico com o desempenho das empresas no mesmo período.
 
-Com o gráfico finalizado, o relatório poderá ser exportado em png, svg, pdf, etc.
+Com os gráficos finalizados, o relatório poderá ser exportado em pdf para ser apresentado.
 
 # Tecnologias utilizadas
 - Python
