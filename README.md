@@ -19,6 +19,7 @@ Com os dados obtidos, foi realizada uma análise estatística da ação Petrobra
 # Agradecimentos
 Professores:
 Odemir - https://www.linkedin.com/in/odemir-depieri-jr/
+
 Lucas - https://www.linkedin.com/in/ronisson-lucas-calmon-da-concei%C3%A7%C3%A3o-7aa884202/ 
 
 # Autor
